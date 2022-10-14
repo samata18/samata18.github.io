@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "homepage.html",
+    "href": "homepage.html",
+    "title": "Samata Brahmane - Personal Site",
+    "section": "",
+    "text": "Introduction\nHi, I am an aspirational data scientist who wants to solve problems using AI.\nI have built machine learning projects on open source datasets, and am familiar with data processing techniques like variable encoding, feature scaling, imputation among others. I have used bagging and boosting based algorithms for predictive analytics.\nFor model deployment, have implemented solutions in fastapi as well as streamlit. I am also proficient in clustering and SQL. My background as a CS graduate gives me theoretical grounding in topics like software design, database management which I’m confident would be helpful in my data science journey.\nI also believe I have problem solving skills to penetrate through business requirements and understand where I can add value as a data scientist and the technical skills to implement solutions. I am a storyteller at heart, and can tell stories using data. I understand that data science is a highly collaborative field, and working with teams is something I cherish. I have the communication skills to ingest domain knowledge and present analytical results to stakeholders."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Samata Brahmane - Personal Site",
+    "section": "",
+    "text": "Hi, I am an aspiring data scientist."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Samata Brahmane - My Projects",
+    "section": "",
+    "text": "All my projects are available in my github profile:\n  \n\n\n\nBuilt a machine learning model to predict whether a person is likely to suffer brain stroke or not, based on open source data with demographic and medical features.\nPerformed in-depth EDA to understand the distribution of the features in the dataset.\nCarried out data processing techniques like variable encoding, imputation, feature scaling to prepare data for machine learning algorithm.\nUsed a gradient-boosting algorithm to train a model that yielded an F1 score of 99%\nDeployed this model as an interactive streamlit app\n\n\n\n\n\nBuilt an android app to extract details of a medicine and give audio output about the name and time for the medicine.\nUsed image processing techniques like custom grayscaling, canny edge detection, segmentation and OCR.\nMatched the extracted text with a database backend to retrieve details for a medicine, including the dosage and timing, and converted text to speech to be the output.\nPerformed in-depth requirement analysis, system design and analysis, risk management, as well as software testing for the project.\nTech stack: Java, Android Studio, SQLite"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Samata Brahmane - My Skills",
+    "section": "",
+    "text": "Tech Stack\n          \n\n\nTools\n\n\n\nField\nTools\n\n\n\n\nWorking with Data\nPandas\n\n\nMachine Learning\nScikit-Learn\n\n\nVisualization\nMatplotlib, Seaborn, Tableau\n\n\nCoding Tools\nConda, Jupyter, Git, Bash, VS Code\n\n\nDeployment\nStreamlit, FastAPI\n\n\nFrontend\nCSS, node.js, html\n\n\nLanguages\nPython, C++, Java, Javascript"
+  }
+]
