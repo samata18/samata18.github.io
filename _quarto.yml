@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Profile"
+  navbar:
+    left:
+      - href: index.ipynb
+        text: Home
+      - href: skills.ipynb
+        text: Skills
+      - href: projects.ipynb
+        text: Projects
+
+    right:
+      - icon: github
+        href: https://github.com/samata18
+        aria-label: GitHub
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
